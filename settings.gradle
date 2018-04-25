@@ -1,0 +1,5 @@
+rootProject.name = 'message-brokers'
+include 'spring-cloud-stream-rabbitmq-producer'
+include 'spring-cloud-stream-kafka'
+include 'spring-cloud-stream-rabbitmq-consumer'
+
